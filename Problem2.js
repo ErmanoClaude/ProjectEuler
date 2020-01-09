@@ -1,3 +1,4 @@
+/* https://projecteuler.net/problem=2 */
 var fibbo = () => {
 	var start = [1,2];
 	var total = 2;
