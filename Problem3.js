@@ -18,7 +18,7 @@ const primeFactors = (number) =>
 
 	//Start with 3 keeps dividing by same number
 	//Then move up by 2 Till we reach sqrt of number
-	for (let i=3; i < Math.sqrt(number); i+=2 )
+	for (let i=3; i <= Math.sqrt(number); i+=2 )
 	{
 		//Keep dividing by the same number while divisible
 		while ( number % i == 0 )
