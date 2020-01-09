@@ -1,3 +1,4 @@
+/* https://projecteuler.net/problem=3 */
 // A function to return a array of prime factors
 // factors of a given number
 const primeFactors = (number) => 
