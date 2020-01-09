@@ -1,3 +1,5 @@
+/* https://projecteuler.net/problem=1 */
+
 const multiples = () => {
 	let count = 1000;
 	let total = 0;
